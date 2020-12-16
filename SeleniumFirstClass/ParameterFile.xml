@@ -7,7 +7,7 @@
       <parameter name = "myName" value="manisha"/> 
       
       <classes>
-         <class name = "TestNgXML" />
+         <class name = "SeleniumFirstScript.TestNgXML" />
       </classes>
       
    </test>
